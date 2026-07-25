@@ -1,0 +1,13 @@
+- File Handling
+- Relative Paths
+- Absolute Paths
+- Read Mode (`r`)
+- Write Mode (`w`)
+- Append Mode (`a`)
+- Create Mode (`x`)
+- read()
+- readline()
+- readlines()
+- write()
+- writelines()
+- with open()
